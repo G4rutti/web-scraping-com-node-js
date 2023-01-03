@@ -1,0 +1,24 @@
+{
+  "name": "web-scraping-com-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/G4rutti/web-scraping-com-node-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/G4rutti/web-scraping-com-node-js/issues"
+  },
+  "homepage": "https://github.com/G4rutti/web-scraping-com-node-js#readme",
+  "dependencies": {
+    "axios": "^1.2.2",
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
